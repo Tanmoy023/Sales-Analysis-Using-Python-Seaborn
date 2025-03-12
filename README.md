@@ -46,21 +46,6 @@ Ensure you have **Python 3.x** installed along with the required libraries:
 pip install pandas seaborn matplotlib jupyter
 ```
 
-### Steps to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/customer-insights-analysis.git
-   ```
-2. Navigate to the project folder:
-   ```bash
-   cd customer-insights-analysis
-   ```
-3. Open Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
-4. Run the notebook file **Customer_Insights_EDA.ipynb** step by step.
-
 ## 📌 Future Enhancements
 - Implement **Machine Learning models** to predict customer behavior
 - Automate **data processing and visualization dashboards**
