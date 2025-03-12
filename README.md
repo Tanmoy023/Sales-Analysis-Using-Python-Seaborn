@@ -54,10 +54,4 @@ pip install pandas seaborn matplotlib jupyter
 ## 📜 Conclusion
 This project provides valuable insights into customer behavior using **EDA techniques**. Businesses can use these findings to optimize their marketing strategies, target the right audience, and enhance customer engagement.
 
----
-🔗 **Author:** [Your Name]  
-📧 **Contact:** your-email@example.com  
-📂 **Portfolio:** [Your Portfolio Link]  
-🌟 **GitHub:** [Your GitHub Profile]
-
 
