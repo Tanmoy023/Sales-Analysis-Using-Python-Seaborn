@@ -39,13 +39,6 @@ The dataset consists of **14 columns and 11,251 records**, including:
 - **What are the top spending categories among customers?**
 - **How does marital status impact purchase decisions?**
 
-## 🚀 How to Run the Project
-### Prerequisites
-Ensure you have **Python 3.x** installed along with the required libraries:
-```bash
-pip install pandas seaborn matplotlib jupyter
-```
-
 ## 📌 Future Enhancements
 - Implement **Machine Learning models** to predict customer behavior
 - Automate **data processing and visualization dashboards**
