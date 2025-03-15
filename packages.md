@@ -1,8 +1,8 @@
 # Virtual Environment ( in ubuntu system )
-sudo apt update
-sudo apt install python3-venv
-python3 -m venv myenv # To create a virtual environment
-source myenv/bin/activate # To activate this virtual environment
+sudo apt update \
+sudo apt install python3-venv \
+python3 -m venv myenv # To create a virtual environment \
+source myenv/bin/activate # To activate this virtual environment \
 
 # install jupyter notebook
 pip install jupyter
@@ -15,7 +15,7 @@ pip install numpy
 
 # Install pandas
 pip install pandas
-pip install openpyxl // to read .xlsx and export DataFrame into .xlsx file
+pip install openpyxl # to read .xlsx and export DataFrame into .xlsx file
 
 # install matplotlib
 pip install matplotlib
