@@ -2,7 +2,7 @@
 sudo apt update \
 sudo apt install python3-venv \
 python3 -m venv myenv # To create a virtual environment \
-source myenv/bin/activate # To activate this virtual environment \
+source myenv/bin/activate # To activate this virtual environment
 
 # install jupyter notebook
 pip install jupyter
